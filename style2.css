@@ -1,0 +1,195 @@
+body{
+    width:1000px;
+    margin: 0px auto;
+}
+
+p{
+    font-size: 14px;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+
+h2{
+     line-height:  1.2em;
+    font-family: "Arial", Georgia, Serif;
+    font-weight:normal;
+}
+
+h3{
+    line-height:  1.2em;
+      font-family: "Times New Roman", Georgia, Serif;
+      font-weight:normal;
+}
+
+h4{
+    line-height:  0;
+      font-family: "Times New Roman", Georgia, Serif;
+      font-weight:normal;
+}
+
+.color_text{
+    color:#828282;
+}
+
+
+
+                                 /*first_block*/
+.menu_page2{
+    background: white;
+    width: 100%; 
+    height: 55px;
+}
+
+.menu_link_page2{
+    text-decoration:none;
+    float: left;
+    padding: 0px 10px 0 21px;
+    width: 8%;
+    font-size: 20px;
+    color:black;
+}
+
+.menu_link1_page2{
+    text-decoration:none;
+    float: left;
+    font-size: 20px;
+    color:silver;
+    width: 7%;
+    
+}
+
+.menu_float_image{
+    float: left;
+    padding: 0px 11px 0 57px;
+}
+
+                                        /*two_block*/
+.block2_page2{
+    background: white;
+    width: 100%; 
+    height: 95px;
+}
+
+                                         /*three_block*/
+                                         
+.block3_page2{
+    background: white;
+    width: 100%; 
+    height: 368px;   
+}      
+
+.float_blocks{
+    float: left;
+    padding: 0px 0 0 30px;
+  width: 31%;
+}
+
+.float_blocks_text{
+    font-size: 14px;
+    width:221px;
+}
+
+.float_blocks_text1{
+    font-size: 14px;
+    width:179px;
+    color:#828282;
+}
+
+.bottom_post1{
+    background-color: #A3CD39;
+    color: white;
+    font-size: 15px; 
+    border-style:solid; 
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.float_blocks_right1{
+    float: right;
+    padding: 0px 0px 0 0 ;
+  width: 28%;
+}
+
+                              /*four_block*/
+.block4_page2{
+    background: white;
+    width: 100%; 
+    height: 100px;   
+}
+
+                              /*five_block*/  
+.block5_page2{
+    background: white;
+    width: 100%; 
+    height: 255px;
+}
+
+.float_left{
+    float: left;
+     padding: 0 0 0 35px;
+     width: 53%;
+}
+
+.padding_images{
+    padding-left: 11px;
+    
+}
+
+.padding_left{
+  float: left;
+  padding-left: 15px;
+  width: 23%;
+  padding-top: 9px;
+}
+
+.padding_images_top{
+    padding-left: 4px;
+    
+}
+
+.text_top{
+    width:48%;
+}
+
+.float_left3{
+  float: left;
+  padding-left: 2px;
+  width:43%;
+}
+
+.text{
+    width:59%;
+}
+
+
+                          /*six_block*/
+.block6_page2{
+    background: #E5E5E5;
+    width: 100%; 
+    height: 180px;
+}
+
+input{
+    width:13%;
+    padding: 10px 13px 10px 61px;
+}
+
+
+                           /*footer*/
+.footer{
+    background: gray;
+    width: 100%; 
+    height: 40px;
+    color: white;
+    padding-top: 0.2px;
+}
+
+.footer_float_left{
+    float: left;
+     padding: 0 0 0 35px;
+     width: 53%;
+}
+
+.footer_float_right{
+  float:right;
+  width:36%;
+}
